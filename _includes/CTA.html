@@ -1,0 +1,13 @@
+<div class="section">
+  <div class="row">
+    <div class="twelve columns">
+      <p>
+        {% if page.bookingType == 'tel' %}
+        <a class="button button-primary" href="tel:{{page.tel}}"><span>Boka</span></a>
+        {% else if page.bookingType == 'link'%}
+        <a class="button button-primary" href="{{page.bookingLink}}"><span>Boka</span></a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+</div>
