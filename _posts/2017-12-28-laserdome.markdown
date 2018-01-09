@@ -5,6 +5,7 @@ categories: goteborg
 image: laserdome2.png
 bookingType: tel
 tel: 031-155 105
+bookingLink: http://goteborg.laserdome.se/barn-ungdom/
 originalUrl: http://goteborg.laserdome.se/barn-ungdom/
 address: Grafiska vägen 32
 city: Göteborg
