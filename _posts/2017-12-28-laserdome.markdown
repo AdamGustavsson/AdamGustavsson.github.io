@@ -71,4 +71,4 @@ Totala tiden ca 2,5h
 
   {% include CTA.html %}  
   
-  Källa [goteborg.laserdome.se](http://goteborg.laserdome.se)
+  Källa: [goteborg.laserdome.se](http://goteborg.laserdome.se)
