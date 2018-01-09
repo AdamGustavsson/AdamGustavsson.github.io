@@ -70,3 +70,5 @@ Totala tiden ca 2,5h
   * Total tid ca 1,5h.
 
   {% include CTA.html %}  
+  
+  Källa http://goteborg.laserdome.se
