@@ -16,12 +16,12 @@
 title: Kalas.io
 email: info@kalas.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Skicka inbjudningskort med SMS
+  Kalas.io Boka kalas och skicka inbjudningskort med SMS
 permalink: /:categories/:title
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+google_analytics: true
+environment: production
 
 
 # Build settings
