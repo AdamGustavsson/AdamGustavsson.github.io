@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Laserdome"
+title:  "Laserdome Mölndal"
 categories: goteborg
 image: laserdome2.png
 bookingType: tel
-bookingLink: http://goteborg.laserdome.se/boka/
 tel: 031-155 105
+originalUrl: http://goteborg.laserdome.se/barn-ungdom/
+address: Grafiska vägen 32
+city: Göteborg
 
 ---
 Fira barnkalas på Laserdome Göteborg och få ett barnkalas utöver det vanliga. LASERDOME kan spelas av alla, tjej som kille och stor som liten. Laserdome har inget med styrka att göra – det är snabbhet, pricksäkerhet och samarbetsförmåga som är avgörande. Åldersgräns för barnkalas är 7-12 år.

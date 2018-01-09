@@ -16,6 +16,11 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <div>
+  Adress: {{page.address}}, {{page.city}}
+  <br>  <br>
+  Läs mer på: <a href="{{page.originalUrl}}">{{page.originalUrl}}</a>
+  </div>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
