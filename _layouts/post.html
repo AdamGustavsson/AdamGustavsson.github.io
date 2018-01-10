@@ -29,7 +29,17 @@ var trackOutboundLink = function(action, label, url) {
   {% if page.image %}
     <img style="max-width:90%;padding:5%;margin-bottom:50px" src="/images/{{ page.image | escape }}"><img>
   {% endif %}
-  <div class="post-content" itemprop="articleBody">
+  <div class="post-content">
+    {{page.description | markdownify}}
+    {% for offer in page.offers %}
+    <br>
+    <h2>{{offer.name}} </h2>
+    {{offer.description | markdownify}}
+
+    <h3>Pris: {{offer.price}}kr</h3>
+    {% include CTA.html offer=offer offerIndex=forloop.index %}
+    {% endfor %}
+
     {{ content }}
   </div>
   <div>
