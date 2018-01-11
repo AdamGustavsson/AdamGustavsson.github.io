@@ -4,3 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+Vi har samlat Sveriges alla kalasarrangörer på ett ställe. Klicka på din stad nedan. 

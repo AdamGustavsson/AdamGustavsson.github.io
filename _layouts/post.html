@@ -20,11 +20,9 @@ var trackOutboundLink = function(action, label, url) {
 <article class="post" itemscope itemtype="http://schema.org/EventVenue">
 
   <header class="post-header">
+    <h4><a href="/{{ page.categories }}">{{ page.city | escape }}</a></h4>
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
   </header>
   {% if page.image %}
     <img style="max-width:90%;padding:5%;margin-bottom:50px" src="/images/{{ page.image | escape }}"><img>
@@ -42,7 +40,7 @@ var trackOutboundLink = function(action, label, url) {
 
     {{ content }}
   </div>
-  <div>
+  <p>
   Adress: {{page.address}}, {{page.city}}
   <br>  <br>
   Läs mer på: <a href="{{page.originalUrl}}">{{page.originalUrl}}</a>
@@ -50,5 +48,5 @@ var trackOutboundLink = function(action, label, url) {
   {% if page.sourcePage %}
   Källa: <a href="{{page.sourcePage}}">{{page.sourcePage}}</a>
   {% endif %}
-</div>
+  </p>
 </article>

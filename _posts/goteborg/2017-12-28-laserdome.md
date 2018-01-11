@@ -10,6 +10,8 @@ originalUrl: http://goteborg.laserdome.se/barn-ungdom/
 address: Grafiska vägen 32
 city: Göteborg
 sourcePage: http://goteborg.laserdome.se
+short_description: |
+  Fira barnkalas på Laserdome Göteborg och få ett barnkalas utöver det vanliga. LASERDOME kan spelas av alla, tjej som kille och stor som liten. Laserdome har inget med styrka att göra – det är snabbhet, pricksäkerhet och samarbetsförmåga som är avgörande.
 description: |
   Fira barnkalas på Laserdome Göteborg och få ett barnkalas utöver det vanliga. LASERDOME kan spelas av alla, tjej som kille och stor som liten. Laserdome har inget med styrka att göra – det är snabbhet, pricksäkerhet och samarbetsförmåga som är avgörande. Åldersgräns för barnkalas är 7-12 år.
 

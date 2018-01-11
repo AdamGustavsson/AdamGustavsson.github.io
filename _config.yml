@@ -19,9 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Kalas.io Boka kalas och skicka inbjudningskort med SMS
 permalink: /:categories/:title
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://boka.kalas.io" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: true
 environment: production
+header_pages:
+  - invite.md
+lang: se
 
 
 # Build settings
