@@ -34,7 +34,9 @@ var trackOutboundLink = function(action, label, url) {
     <h2>{{offer.name}} </h2>
     {{offer.description | markdownify}}
 
+    {%if offer.price %}
     <h3>Pris: {{offer.price}}kr</h3>
+    {% endif %}
     {% include CTA.html offer=offer offerIndex=forloop.index %}
     {% endfor %}
 
