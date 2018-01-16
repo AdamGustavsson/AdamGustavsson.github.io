@@ -21,34 +21,45 @@ var trackOutboundLink = function(action, label, url) {
 
   <header class="post-header">
     <h4><a href="/{{ page.categories }}">Kalas {{ page.city | escape }}</a></h4>
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title" itemprop="name">{{ page.title | escape }}</h1>
     <p class="post-meta">
   </header>
   {% if page.image %}
-    <img style="max-width:90%;padding:5%;margin-bottom:50px" src="/images/{{ page.image | escape }}"><img>
+    <img itemprop="logo" style="max-width:90%;padding:5%;margin-bottom:50px" src="/images/{{ page.image | escape }}"><img>
   {% endif %}
   <div class="post-content">
-    {{page.description | markdownify}}
+    <span itemprop="description">{{page.description | markdownify}}</span>
     {% for offer in page.offers %}
     <br>
-    <h2>{{offer.name}} </h2>
-    {{offer.description | markdownify}}
+    <span itemscope itemtype="http://schema.org/Offer">
+      <span itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+        <h2 itemprop="name">{{offer.name}} </h2>
+        <span itemprop="description">{{offer.description | markdownify}}</span>
+      </span>
+      {%if offer.price %}
+      <h3>Pris: <span itemprop="price">{{offer.price}} </span>kr</h3>
+      {% endif %}
+      {% include CTA.html offer=offer offerIndex=forloop.index %}
+    </span>
+      {% endfor %}
 
-    {%if offer.price %}
-    <h3>Pris: {{offer.price}}kr</h3>
-    {% endif %}
-    {% include CTA.html offer=offer offerIndex=forloop.index %}
-    {% endfor %}
-
-    {{ content }}
+      {{ content }}
   </div>
+  <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  Adress:
+  <a href="https://www.google.com/maps/search/?api=1&query={{page.address | url_encode}}%2C+{{page.city | url_encode}}">
+    <span itemprop="streetAddress">{{page.address}}</span>
+    ,   <span itemprop="addressLocality">{{page.city}}</span>
+  </a>
+  </p>
   <p>
-  Adress: {{page.address}}, {{page.city}}
-  <br>  <br>
   Läs mer på: <a href="{{page.originalUrl}}">{{page.originalUrl}}</a>
   <br>  <br>
   {% if page.sourcePage %}
   Källa: <a href="{{page.sourcePage}}">{{page.sourcePage}}</a>
   {% endif %}
+  <br>  <br>
+  <a href="/{{ page.categories }}">Se fler ställen {{page.city}} i där du kan ha ditt barnkalas</a>
+
   </p>
 </article>
