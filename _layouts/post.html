@@ -8,10 +8,11 @@ layout: default
 * as the event label. Setting the transport method to 'beacon' lets the hit be sent
 * using 'navigator.sendBeacon' in browser that support it.
 */
-var trackOutboundLink = function(action, label, url) {
+var trackOutboundLink = function(action, label,value, url) {
   gtag('event', action, {
     'event_category': 'Book',
     'event_label': label,
+    'value':value,
     'transport_type': 'beacon',
     'event_callback': function(){document.location = url;}
   });

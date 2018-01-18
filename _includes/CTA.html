@@ -6,7 +6,7 @@
         {% if page.bookingType == 'tel' %}
         <a class="button button-primary" href="tel:{{page.tel}}" onclick="gtag('event', 'Book_tel', {'event_category': 'Book','event_label': '{{page.categories}}:{{page.title}}:{{page.city}}:offer_{{include.offerIndex}}','value':{%if include.offer.price %}{{include.offer.price}}{%else%}0{%endif%} });"><span>Boka {{include.offer.name}}</span></a>
         {% else if page.bookingType == 'link' %}
-        <a class="button button-primary" href="{{page.bookingLink}}" onclick="trackOutboundLink('Book_link','{{page.categories}}:{{page.title}}:{{page.city}}:offer_{{include.offerIndex}}','value':{%if include.offer.price %}{{include.offer.price}}{%else%}0{%endif%},'{{page.bookingLink}}')"><span>Boka {{include.offer.name}}</span></a>
+        <a class="button button-primary" href="{{page.bookingLink}}" onclick="trackOutboundLink('Book_link','{{page.categories}}:{{page.title}}:{{page.city}}:offer_{{include.offerIndex}}',{%if include.offer.price %}{{include.offer.price}}{%else%}0{%endif%},'{{page.bookingLink}}')"><span>Boka {{include.offer.name}}</span></a>
         {% endif %}
       </p>
     </div>
