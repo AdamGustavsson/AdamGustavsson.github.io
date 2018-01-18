@@ -11,6 +11,9 @@
   <link href="/images/styles.css" type="text/css" rel="stylesheet">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif%7CAcme" media="all">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  {% if page.path == "index.md" %}
+  <meta name="robots" content="noindex">
+  {% endif %}
   {% if site.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
