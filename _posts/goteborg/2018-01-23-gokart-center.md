@@ -3,7 +3,7 @@ layout: post
 title:  Göteborgs gokartcenter
 categories: goteborg
 image: gokartcenter.jpg
-bookingType: phone
+bookingType: tel
 tel: 031-56 29 60
 originalUrl: http://www.gokart.se/priser
 address: Bulyckevägen 20
