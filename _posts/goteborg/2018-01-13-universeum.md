@@ -9,6 +9,9 @@ originalUrl: https://www.universeum.se/event/barnkalas/
 address: Södra vägen 50
 city: Göteborg
 sourcePage: https://www.universeum.se/event/barnkalas/
+related:
+  - Lek & buslandet
+  - Barnpalatset
 short_description: |
   Skapa en oförglömlig födelsedag på Universeum tillsammans med oss! Bli deckare för en dag, hitta ett hem till grodguiden eller upptäck hela huset på egen hand.
 description: |

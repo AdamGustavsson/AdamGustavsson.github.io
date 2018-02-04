@@ -9,6 +9,9 @@ originalUrl: http://www.gokart.se/priser
 address: Bulyckevägen 20
 city: Göteborg
 sourcePage: http://www.gokart.se/priser
+related:
+  - Prison Island
+  - Fearless Movement
 short_description: |
   Ordna ett fartfyllt och minnesvärt barnkalas på Göteborgs GokartCenter. Låt barnen testa på hur det är att köra riktig gokart på vår inomhusbana.
 description: |

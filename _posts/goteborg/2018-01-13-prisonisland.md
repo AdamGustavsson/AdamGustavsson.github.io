@@ -9,6 +9,9 @@ originalUrl: http://prisonisland.nu/prison-island-goteborg-priser-och-oppettider
 address: Åbäcksgatan 6A
 city: Göteborg
 sourcePage: http://prisonisland.nu/prison-island-goteborg-priser-och-oppettider/prison-island-goteborg-kalasparty/
+related:
+  - Fearless Movement
+  - Laserdome Mölndal
 short_description: |
   Boka vårt kalas- eller partypaket för era ungdomar (10-15 år) och vi lovar dig oförglömliga timmar på Prison Island.
 description: |

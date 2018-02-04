@@ -9,6 +9,9 @@ originalUrl: http://www.strikebowlinggoteborg.se/barnkalas-i-goteborg/
 address: Gamlestadsvägen 2
 city: Göteborg
 sourcePage: http://www.strikebowlinggoteborg.se/barnkalas-i-goteborg/
+related:
+  - Laserdome Mölndal
+  - Lek & buslandet
 short_description: |
   Anordna barnkalaset i Göteborg hos Strike & Co. Bjud dina kompisar på ett riktigt häftigt fowlingkalas de sent kommer glömma.
 description: |

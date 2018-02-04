@@ -9,6 +9,9 @@ originalUrl: http://fearlessmovement.se/parkourkalas.php
 address: Backavägen 6
 city: Göteborg
 sourcePage: http://fearlessmovement.se/parkourkalas.php
+related:
+  - Prison Island
+  - Laserdome Mölndal
 short_description: |
   Fearless Movement handlar om att krossa sina rädslor, att kunna hantera dem bättre, att kunna ignorera sin rädsla för stunden och bara rycka fram när livet kräver att du ska agera!
   Vill du fira din födelsedag med ett Parkourkalas? Då har du hamnat helt rätt!

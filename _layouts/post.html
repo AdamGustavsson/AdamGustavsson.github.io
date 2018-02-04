@@ -59,8 +59,31 @@ var trackOutboundLink = function(action, label,value, url) {
   {% if page.sourcePage %}
   Källa: <a href="{{page.sourcePage}}">{{page.sourcePage}}</a>
   {% endif %}
-  <br>  <br>
-  <a href="/{{ page.categories }}">Se fler ställen {{page.city}} i där du kan ha ditt barnkalas</a>
-
   </p>
+  {%if page.related | first%}
+  <h4>Andra kalasarrangörer i {{page.city}} du kanske gillar:</h4>
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {%if page.related contains post.title %}
+      <li>
+        <h2>
+          {% if post.image %}
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <img style="max-width:90%;padding:5%;margin-bottom:10px" src="/images/{{ post.image | escape }}"><img>
+            </a>
+          {% endif %}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}</a>
+        </h2>
+        <div>{{ post.short_description }}</div>
+      </li>
+      <hr>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+  <h4>
+    <a href="/{{ page.categories }}">Se fler ställen i {{page.city}} där du kan ha ditt barnkalas</a>
+  </h4>
+
 </article>

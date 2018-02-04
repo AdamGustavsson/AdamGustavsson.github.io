@@ -9,6 +9,9 @@ originalUrl: http://barnpalatset.com/barnkalas/
 address: Alekärrsgatan 2
 city: Göteborg
 sourcePage: http://barnpalatset.com/barnkalas/
+related:
+  - Lek & buslandet
+  - Universeum
 short_description: |
   Ett kalas på Barnpalatset är mycket mer än bara ett kalas. Välj ett underbart kalasrum dukat med mat, Barnpalatsets djungelsaft och en härlig glassbomb! När barnen har fikat och ätit är det sedan dags för fri lek i två timmar. Kalaset avslutas med att alla barn får Barnpalatsets egen godispåse.
 description: |
