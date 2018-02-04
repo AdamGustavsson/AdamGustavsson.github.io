@@ -16,7 +16,7 @@ related:
 short_description: |
   Ha kalas på Laserdome Mölndal. LASERDOME kan spelas av barn som vuxna, pojkar som flickor. På Laserdome det är det snabbhet, precision och lagsamarbete som är vinnande.
 description: |
-  Ha kalas på Laserdome Göteborg. LASERDOME kan spelas av barn som vuxna, pojkar som flickor. På Laserdome det är det snabbhet, precision och lagsamarbete som är avgörande. På Laserdome kan du ha ditt kalas om du är mellan 7 och 12 år.
+  Ha kalas på Laserdome Mölndal. LASERDOME kan spelas av barn som vuxna, pojkar som flickor. På Laserdome det är det snabbhet, precision och lagsamarbete som är avgörande. På Laserdome kan du ha ditt kalas om du är mellan 7 och 12 år.
 
 
   Laserdome, ett spännande lagspel som spelas i en laser-arena på nästan 1500 kvadratmeter! Laserdome är perfekt för barnkalas: med sensorvästar på överkroppen och lasergevär i händerna jagar ni efter varandra i de mörka gångarna. Göm dig, smyg och spela smartare än dina motsåndare. Hitta fienderna innan de kan hitta dig. Arenan är ett framtidslandskap fullt med ljud och lasereffekter samt hinder och väggar perfekta för att överraska fienden…
