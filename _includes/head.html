@@ -10,7 +10,7 @@
   <link href="https://cdn.jsdelivr.net/skeleton/2.0.4/css/skeleton.css" type="text/css" rel="stylesheet">
   <link href="/images/styles.css" type="text/css" rel="stylesheet">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif%7CAcme" media="all">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ site.url | replace:'index.html',''}}{{ page.url | replace:'index.html',''}}">
   {% if page.path == "index.md" %}
   <meta name="robots" content="noindex">
   {% endif %}
