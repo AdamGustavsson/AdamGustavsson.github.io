@@ -61,7 +61,7 @@ var trackOutboundLink = function(action, label,value, url) {
   {% endif %}
   </p>
   {%if page.related | first%}
-  <h4>Andra kalasarrangörer i {{page.city}} du kanske gillar:</h4>
+  <h4>Andra ställen för barnkalas i {{page.city}}:</h4>
   <ul class="post-list">
     {% for post in site.posts %}
     {%if page.related contains post.title %}
