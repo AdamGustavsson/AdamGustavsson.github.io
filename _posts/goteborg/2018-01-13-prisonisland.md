@@ -13,9 +13,9 @@ related:
   - Fearless Movement
   - Laserdome Mölndal
 short_description: |
-  Boka vårt kalas- eller partypaket för era ungdomar (10-15 år) och vi lovar dig oförglömliga timmar på Prison Island.
+  Boka vårt kalas- eller partypaket för era ungdomar (10-15 år) och vi lovar dig oförglömliga timmar på Prison Island. Här gör du utmaningar i celler som på Fångarna på fortet.
 description: |
-  Boka vårt kalas- eller partypaket för era ungdomar (10-15 år) och vi lovar dig oförglömliga timmar på Prison Island.
+  Boka vårt kalas- eller partypaket för era ungdomar (10-15 år) och vi lovar dig oförglömliga timmar på Prison Island. Här gör du utmaningar i celler som på Fångarna på fortet.
   Tänk på att bilda lag om 3-4 personer för att kunna få bästa resultat i cellerna.
 
   Våra celler är byggda för både barn och vuxna och man bör vara från 10 år för att utmana cellerna ensamma.
