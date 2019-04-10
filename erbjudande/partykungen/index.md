@@ -11,5 +11,5 @@ image: partykungen.png
 
 {:/}
 
- Gör kalaset lite festligare med dekorationer från [partykungen.se](https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/). Ange koden KALAS.IO
+ Gör kalaset minnesvärt med dekorationer från [partykungen.se](https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/). Ange koden KALAS.IO
 
