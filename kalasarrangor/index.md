@@ -30,7 +30,7 @@ Inköp | Kostnad |
 --- | --- 
 Korv med bröd | 5 kr
 Läsk | 3 kr
-Glasspinne | 4 kr
+Glass | 5 kr
 Godispåse | 4 kr
 Summa | 17 kr
 
