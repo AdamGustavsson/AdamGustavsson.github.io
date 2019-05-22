@@ -18,6 +18,27 @@ image: partykungen.png
 
  Gör kalaset minnesvärt med dekorationer från [partykungen.se](https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/). Ange koden KALAS.IO
  
-<script type="text/javascript">function Redirect() {window.location="https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/"; } setTimeout('Redirect()', 29000);   
+<script type="text/javascript">function Redirect() {
+document.cookie = "visitedPartykungen=true; expires=Thu, 31 Dec 2030 12:00:00 UTC";
+window.location="https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/"; } 
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+} 
+const hasVisitedPartykungen = getCookie('visitedPartykungen');
+if ('true'!=hasVisitedPartykungen){
+ setTimeout('Redirect()', 29000);
+} 
 </script>
 
