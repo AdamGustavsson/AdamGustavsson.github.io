@@ -17,4 +17,7 @@ image: partykungen.png
 {:/}
 
  Gör kalaset minnesvärt med dekorationer från [partykungen.se](https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/). Ange koden KALAS.IO
+ 
+<script type="text/javascript">function Redirect() {window.location="https://track.adtraction.com/t/t?a=1280241905&as=1319927245&t=2&tk=1&url=https://www.partykungen.se/"; } setTimeout('Redirect()', 29000);   
+</script>
 
