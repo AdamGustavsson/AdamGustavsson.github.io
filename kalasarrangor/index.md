@@ -18,7 +18,7 @@ Vi skapar ett inbjudningskort med ditt tema som kunderna använder till inbjudni
 
 För att skapa ett erbjudande till de inbjudna föräldrarna har vi en provisionsbaserad model. Vi mäter hur många bokningar som görs via erbjudandesidan och du betalar endast för de kalasbokningar som skapas via vår tjänst. Det ger dig en helt riskfri kampanj där du endast betalar för merförsäljningen. 
 
-**Som ett tidsbegränsat introduktionspris kan vi nu erbjuda tjänsten för endast 99kr (orinarie pris 199kr) per bokat kalas.**
+**Som ett tidsbegränsat introduktionspris kan vi nu erbjuda tjänsten för endast 99kr (ordinarie pris 199kr) per bokat kalas.**
 
 För att få ett exempel på hur lönsamt det blir att jobba med kalas.io:s smarta marknadsföring, [klicka här.](./kalkyl) 
 

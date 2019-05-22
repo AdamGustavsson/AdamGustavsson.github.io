@@ -5,9 +5,10 @@ permalink: /kalasarrangor/kalkyl
 ---
 # Hur myckat kan du tjäna på att använda kalas.io?
 
-**Som ett tidsbegränsat introduktionspris kan vi nu erbjuda tjänsten för endast 99kr (orinarie pris 199kr) per bokat kalas.** 
+**Som ett tidsbegränsat introduktionspris kan vi nu erbjuda tjänsten för endast 99kr (ordinarie pris 199kr) per bokat kalas.** 
 
-Du kan läsa mer om vår tjänst [här](/kalasarrangor/)
+Du kan läsa mer om vår tjänst [här](/kalasarrangor/).
+
 Vi har hjälpt dig räkna på lönsamheten i erbjudandet genom följande exempel.
 
 Trampolinpalatset har följande rörliga kostnader per barn för ett barnkalas:
