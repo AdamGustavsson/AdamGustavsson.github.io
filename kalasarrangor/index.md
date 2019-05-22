@@ -23,7 +23,9 @@ Som ett tidsbegränsat introduktionspris kan vi nu erbjuda tjänsten för endast
 Vi har hjälpt dig räkna på lönsamheten i erbjudandet genom följande exempel.
 
 Trampolinpalatset har följande rörliga kostnader per barn för ett barnkalas:
+
 Inköpskostnader:
+
 Inköp | Kostnad |
 --- | --- 
 Korv med bröd | 5 kr
