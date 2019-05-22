@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Viral tillväxt - vad är det och hur kan du som barnkalasarrangör få dina besökstal att explodera?"
+title:  "Viral tillväxt - hur kan du som barnkalasarrangör få dina besökstal att explodera?"
 permalink: /kalasarrangor/viral
 ---
-# Viral tillväxt - vad är det och hur kan du som barnkalasarrangör få dina besökstal att explodera?
+# Viral tillväxt - hur kan du som barnkalasarrangör få dina besökstal att explodera?
 
 Viral tillväxt. Du har säkert hört begreppet någon gång, men vad betyder det egentligen? 
 Låt oss ta några exempel från internets barndom. Hotmail började som ett litet garageföretag med obefintlig budget. Man hade ingen möjlighet att annonsera för att få nya användare. Vändningen kom när grundarna började lägga en text i varje meddelande skickat med hotmail. Want a free email account? Sign-up for Hotmail today!
