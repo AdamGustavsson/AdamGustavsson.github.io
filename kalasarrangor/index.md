@@ -20,9 +20,9 @@ För att skapa ett erbjudande till de inbjudna föräldrarna har vi en provision
 
 **Som ett tidsbegränsat introduktionspris kan vi nu erbjuda tjänsten för endast 99kr (orinarie pris 199kr) per bokat kalas.**
 
-För att få ett exempel på hur lönsamt det blir att jobba med kalas.io:s smarta marknadsföring, [klicka här](./kalkyl) 
+För att få ett exempel på hur lönsamt det blir att jobba med kalas.io:s smarta marknadsföring, [klicka här.](./kalkyl) 
 
-Vill du få komma i gång med din "goda cirkel" med hjälp av kalas.io? Kontakta oss på [info@kalas.io](mailto:info@kalas.io) så hjälper vi dig.
+Vill du få komma i gång med din "[goda cirkel](/kalasarrangor/viral)" med hjälp av kalas.io? Kontakta oss på [info@kalas.io](mailto:info@kalas.io) så hjälper vi dig.
 
 
 

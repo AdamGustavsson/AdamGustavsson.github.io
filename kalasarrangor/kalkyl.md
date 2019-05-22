@@ -48,7 +48,7 @@ Hon jämför t.ex med att annonsera på Google som hon också gör. Där betalar
 Med erbjudandet på kalas.io får hon hjälp att sätta upp kampanjen, hon vet vad det kostar, och känner sig trygg med att hon bara betalar när hon får bokningar via sitt erbjudande. 
 Dessutom har hon märkt att hon skapat en "god cirkel". Varje nytt kalas genererar nya kunder och kalasbokningarna ökar månad för månad. Trampolinpalatset var först i stan med att använda kalas.io:s erbjudande och plockar därför marknadsandelar från sina konkurenter. Samtidigt är Trampolinpalatsets ägare väldigt medveten om att kundupplevelsen är det allra viktigaste och jobbar ständigt med att göra sina barnkalas bättre. Kombinationen av smart marknadsföring och kundfokus ger konkurrensfördelar mot de andra kalasarrangörerna i stan, som mest tycks jobba på i samma gamla hjulspår. 
 
-Vill du få komma i gång med din "goda cirkel" med hjälp av kalas.io? Kontakta oss på [info@kalas.io](mailto:info@kalas.io) så hjälper vi dig.
+Vill du komma i gång med din "goda cirkel" med hjälp av kalas.io? Kontakta oss på [info@kalas.io](mailto:info@kalas.io) så hjälper vi dig.
 
 
 
