@@ -13,7 +13,7 @@ related:
   - Laserdome Mölndal
   - Lek & buslandet
 short_description: |
-  Anordna barnkalaset i Göteborg hos Strike & Co. Bjud dina kompisar på ett riktigt häftigt fowlingkalas de sent kommer glömma.
+  Anordna barnkalaset i Göteborg hos Strike & Co. Bjud dina kompisar på ett riktigt häftigt bowlingkalas de sent kommer glömma.
 description: |
   Anordna barnkalaset i Göteborg hos Strike & Co. Bjud dina kompisar på ett riktigt häftigt födelsedagsparty de sent kommer glömma.
 
