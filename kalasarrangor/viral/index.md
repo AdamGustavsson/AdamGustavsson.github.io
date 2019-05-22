@@ -17,12 +17,14 @@ De flesta branscher bara drömmer om att lyckas med viral tillväxt. Du har säk
 
 Jag tror att du jobbar inom en branch som har en helt unik möjlighet att skapa viral tillväxt. Nämligen barnkalasbranchen. Genom att dina kunder, barnets föräldrar, bjuder in 10-20 nya potentiella kunder, räcker det med att du lyckas locka i snitt minst en av dessa föräldrar att ha sitt kalas hos er för att nå viral tillväxt.
 
-Hur jobbar du idag för att nå denna grupp?
+**Hur jobbar du idag för att nå denna grupp?**
 
 Kalas.io har byggt hela sin tillväxt på detta sätt och växer idag med ca 10% per månad helt utan betald marknadsföring. 
 Vi berättar gärna hur du med hjälp av vår plattform kan skapa en viral tillväxtmotor där bara din egen kapacitet begränsar dina besökstal.
 
-Under vår introduktionsmånad kan du prova gratis. Vi har själva känt kraften i viral tillväxt och vågar därför lova att du kommer få resultat du är beredd att betala för.
+Med vårt introduktionserbjudande kan du prova till ett mycket förmånligt pris. Vi har själva känt kraften i viral tillväxt och vågar därför ta betalt endast när du uppnår resultat.
+
+[Läs mer om erbjudandet](/kalasarrangor/)
 
 
 
