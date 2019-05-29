@@ -11,7 +11,9 @@ Plötsligt blev varje mottagare en potentiell ny användare. Resten är historia
 
 Facebook är ett annat bra exempel. Användarens upplevelse blev bättre om deras vänner också anslöt sig. Därför gjorde man det väldigt lätt att skicka inbjudningar till alla sina vänner som ännu inte fanns på Facebook. På bara ett halvår når man 1 miljon användare och 8 år senare spränger man miljardvallen.
 
-Hur kan dessa små åtgärder få sådan enorm effekt? Det är egentligen enkel matematik. Om varje användare gör något som genererar en ny, som genererar en ny o.s.v. så kommer det hela växa av sig självt tills det inte finns några nya användare att rekrytera.
+Hur kan dessa små åtgärder få sådan enorm effekt? Det är egentligen enkel matematik. Om varje användare gör något som genererar en ny, som genererar en ny o.s.v. så kommer det hela växa av sig självt tills det inte finns några nya användare att rekrytera. Detta förutsätter såklart  att du behåller användarna över tid.
+
+![Viral tillväxt](/images/viral.jpg "Viral tillväxt")
 
 De flesta branscher bara drömmer om att lyckas med viral tillväxt. Du har säkert fått erbjudande om att bjuda in en vän till att handla, mat på nätet eller liknade, mot att du får en bonus. I de flesta fall känns det inte naturligt och då tar inte viraliteten fart. 
 
