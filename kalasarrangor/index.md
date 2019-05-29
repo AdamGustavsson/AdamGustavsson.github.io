@@ -12,6 +12,8 @@ När din kund använder kalas.io för att bjuda in till kalaset skickas inbjudni
 
 Vi skapar en webbsida för ditt erbjudande där du kan beskriva hur kunden gör för att boka osv. Enklast är ofta att kunden skall ange en kod vid bokning via telefon. Då behöver du inget tekniskt system utan kan ge dem rabatten och rätt pris direkt vid bokningen.
 
+![Barnkalas](/images/party.jpg "Barnkalas")
+
 Skapar du ett attraktivt erbjudande så kommer varje nytt kalas skapa nya kalasbokningar i en oändlig snurra som bara tar stopp när du inte har kapacitet att hålla fler kalas. 
 
 Vi skapar ett inbjudningskort med ditt tema som kunderna använder till inbjudningarna. För detta betalar du en engångsavgift på 3000 kr ex moms.
