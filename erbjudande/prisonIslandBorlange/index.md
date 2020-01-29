@@ -9,4 +9,8 @@ image: PrisonIslandBorlange.svg
 
 Som tidigare gäst får du 10% rabatt på ditt nästa kalas på Prison Island. Ange koden KALAS.IO när du bokar. 
 
-![Super kalas](./PrisonSuperkalas.png)
+<div style="display: flex;flex-direction: column;">
+![Super party](./PrisonSuperkalas.png)
+![Mega party](./PrisonSuperkalas.png)
+![Ultra party](./PrisonSuperkalas.png)
+<div>
