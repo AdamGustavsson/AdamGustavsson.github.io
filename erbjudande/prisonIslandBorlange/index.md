@@ -2,7 +2,7 @@
 layout: default
 title:  "Prison Island Borlänge rabatt"
 permalink: /erbjudande/PrisonIslandBorlange
-image: PrisonIslandBorlange.png
+image: PrisonIslandBorlange.svg
 ---
 ![Prison Island](/images/{{ page.image | escape }})
 ### 10% rabatt på Prison Island Borlänge
