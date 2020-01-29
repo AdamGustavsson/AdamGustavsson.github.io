@@ -7,4 +7,6 @@ image: PrisonIslandBorlange.svg
 ![Prison Island](/images/{{ page.image | escape }})
 ### 10% rabatt på Prison Island Borlänge
 
-Som tidigare gäst får du 10% rabatt på ditt nästa kalas på Prison Island. Ange koden KALAS.IO när du bokar. [Boka här](https://boka.prisonislandborlange.se/boka-kalas/)
+Som tidigare gäst får du 10% rabatt på ditt nästa kalas på Prison Island. Ange koden KALAS.IO när du bokar. 
+
+![Super kalas](./PrisonSuperkalas.png)
