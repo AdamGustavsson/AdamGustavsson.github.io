@@ -9,8 +9,17 @@ image: PrisonIslandBorlange.svg
 
 Som tidigare gäst får du 10% rabatt på ditt nästa kalas på Prison Island. Ange koden KALAS.IO när du bokar nedan. 
 
-<div style="display: flex;flex-direction: column;">
-<img alt="Super party" src="/images/PrisonSuperkalas.png">
-<img alt="Mega party" src="/images/PrisonSuperkalas.png">
-<img alt="Ultra party" src="/images/PrisonSuperkalas.png">
+<div class="offerContainer" >
+<div class="offer">
+    <img class="offerImage" alt="Super party" src="/images/PrisonSuperParty.png">
+    <a class="offerButton" class="offerButton" href="https://boka.prisonislandborlange.se/boka-kalas/" onclick="trackOutboundLink('BookAffiliateOffer:PrisonIslandBorlängeMega',document.referrer,99,'https://boka.prisonislandborlange.se/boka-kalas/')"> Boka nu</a>
+</div>
+<div class="offer">
+    <img class="offerImage" alt="Mega party" src="/images/PrisonMegaParty.png">
+    <a class="offerButton" class="offerButton" href="https://boka.prisonislandborlange.se/boka-kalas/" onclick="trackOutboundLink('BookAffiliateOffer:PrisonIslandBorlängeMega',document.referrer,99,'https://boka.prisonislandborlange.se/boka-kalas/')"> Boka nu</a>
+</div>
+<div class="offer">
+    <img class="offerImage" alt="Ultra party" src="/images/PrisonUltraParty.png">
+    <a class="offerButton" class="offerButton" href="https://boka.prisonislandborlange.se/boka-kalas/" onclick="trackOutboundLink('BookAffiliateOffer:PrisonIslandBorlängeUltra',document.referrer,99,'https://boka.prisonislandborlange.se/boka-kalas/')"> Boka nu</a>
+</div>
 <div>

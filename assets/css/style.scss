@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.offerContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap
+}
